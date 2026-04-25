@@ -14,19 +14,19 @@ After implementing defined functions that were created both in-class and on our 
 
 ## Visualizations
 
-Line Plot  
+**Line Plot**  
 
 <img src="static/imgs/lineplot.png" alt="Image of Lineplot Visualization. "  width="500"/>  
 
 Here, we can see a positive relationship between finding lecture videos effective and recommending pre lecture videos. In addition, the plot shows that students who recommend pre lecture videos more, also find lecture videos more effective.  
 
-Bar Plot  
+**Bar Plot**  
 
 <img src="static/imgs/barplot.png" alt="Image of Barplot Visualization. "  width="500"/>  
 
 From this barplot, we can observe that people with 1-2 years of prior self-guided learning tend to recommend the implementation of pre-lecture videos less. Whilst those with lower experience, tend to recommend the implementation of pre-lecture videos more highly. Surprisingly, those with 7-12 months tend to recommend pre-lecture videos the most out of all responses.    
 
-Box Plot  
+**Box Plot**  
 
 <img src="static/imgs/boxplot.png" alt="Image of Boxplot Visualization. "  width="500"/>  
 
