@@ -14,9 +14,9 @@ After implementing defined functions that were created both in-class and on our 
 
 ## Visualizations
 
-<img src="Projects/static/imgs/lineplot.png" alt="Image of Lineplot Visualization. "  width="500"/>
-<img src="Projects/static/imgs/barplot.png" alt="Image of Barplot Visualization. "  width="500"/>
-<img src="Projects/static/imgs/boxplot.png" alt="Image of Boxplot Visualization. "  width="500"/>
+<img src="static/imgs/lineplot.png" alt="Image of Lineplot Visualization. "  width="500"/>
+<img src="static/imgs/barplot.png" alt="Image of Barplot Visualization. "  width="500"/>
+<img src="static/imgs/boxplot.png" alt="Image of Boxplot Visualization. "  width="500"/>
 
 
 ## Conclusions
